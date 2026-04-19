@@ -1,0 +1,1546 @@
+[09-Apr-2026 12:55:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:53
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(53): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 53
+[09-Apr-2026 12:57:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:62
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(62): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 62
+[09-Apr-2026 12:58:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:63
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(63): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 63
+[09-Apr-2026 12:58:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:63
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(63): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 63
+[09-Apr-2026 12:58:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:63
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(63): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 63
+[09-Apr-2026 12:58:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:63
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(63): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 63
+[09-Apr-2026 12:59:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:63
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(63): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 63
+[09-Apr-2026 12:59:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:63
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(63): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 63
+[09-Apr-2026 12:59:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:63
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(63): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 63
+[09-Apr-2026 13:00:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:63
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(63): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 63
+[09-Apr-2026 13:00:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:59
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(59): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 59
+[09-Apr-2026 13:01:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:59
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(59): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 59
+[09-Apr-2026 13:03:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:59
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(59): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 59
+[09-Apr-2026 13:05:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:64
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(64): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 64
+[09-Apr-2026 13:05:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\libsystem\pages\profile.php:64
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\pages\profile.php(64): mysqli->prepare('SELECT password...')
+#1 {main}
+  thrown in C:\xampp\htdocs\libsystem\pages\profile.php on line 64
+[09-Apr-2026 13:16:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'library_management.password_reset_tokens' doesn't exist in C:\xampp\htdocs\libsystem\includes\security.php:113
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(113): mysqli->query('DELETE FROM pas...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(13): SecurityHelper->cleanupExpiredTokens()
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 113
+[09-Apr-2026 13:16:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'library_management.password_reset_tokens' doesn't exist in C:\xampp\htdocs\libsystem\includes\security.php:113
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(113): mysqli->query('DELETE FROM pas...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(13): SecurityHelper->cleanupExpiredTokens()
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 113
+[09-Apr-2026 13:17:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'library_management.password_reset_tokens' doesn't exist in C:\xampp\htdocs\libsystem\includes\security.php:113
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(113): mysqli->query('DELETE FROM pas...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(13): SecurityHelper->cleanupExpiredTokens()
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 113
+[09-Apr-2026 13:19:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'library_management.login_attempts' doesn't exist in C:\xampp\htdocs\libsystem\includes\security.php:20
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(20): mysqli->prepare('SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\libsystem\index.php(25): SecurityHelper->isAccountLocked('rohan.14yahoo@g...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 20
+[09-Apr-2026 13:19:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'library_management.login_attempts' doesn't exist in C:\xampp\htdocs\libsystem\includes\security.php:20
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(20): mysqli->prepare('SELECT COUNT(*)...')
+#1 C:\xampp\htdocs\libsystem\index.php(25): SecurityHelper->isAccountLocked('rohan.14yahoo@g...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 20
+[09-Apr-2026 13:28:29 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:28:31 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:28:37 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:28:41 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:28:49 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:31:28 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:31:59 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:32:13 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:32:18 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:32:19 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:34:24 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:47:36 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:47:43 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:48:57 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 291
+[09-Apr-2026 13:49:19 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:50:46 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:54:33 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:56:02 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:56:21 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 264
+[09-Apr-2026 13:59:28 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 272
+[09-Apr-2026 14:02:56 UTC] === FORM SUBMITTED ===
+[09-Apr-2026 14:02:56 UTC] POST data: {"step":"1","email":"rohan.14yahoo@gmail.com"}
+[09-Apr-2026 14:02:56 UTC] START: generatePasswordResetToken for user 2
+[09-Apr-2026 14:02:56 UTC] Token hash: 77556228d69f0b97ab31...
+[09-Apr-2026 14:02:56 UTC] Expires at: 2026-04-09 15:02:56
+[09-Apr-2026 14:02:56 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:02:56 UTC] Prepare succeeded
+[09-Apr-2026 14:02:56 UTC] Bind succeeded
+[09-Apr-2026 14:02:56 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:02:56 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:02:58 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 294
+[09-Apr-2026 14:03:15 UTC] === FORM SUBMITTED ===
+[09-Apr-2026 14:03:15 UTC] POST data: {"step":"1","email":"rohan.14yahoo@gmail.com"}
+[09-Apr-2026 14:03:15 UTC] START: generatePasswordResetToken for user 2
+[09-Apr-2026 14:03:15 UTC] Token hash: 379ccb23f8b8123d21d9...
+[09-Apr-2026 14:03:15 UTC] Expires at: 2026-04-09 15:03:15
+[09-Apr-2026 14:03:15 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:03:15 UTC] Prepare succeeded
+[09-Apr-2026 14:03:15 UTC] Bind succeeded
+[09-Apr-2026 14:03:15 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:03:15 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:03:17 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 294
+[09-Apr-2026 14:10:27 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:10:27 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:10:27 UTC] Token from URL (first 30 chars): 7bd7e9cd8f4a192b946133a6c1e449
+[09-Apr-2026 14:10:27 UTC] Token length: 64
+[09-Apr-2026 14:10:27 UTC] Verifying token - hash (first 20 chars): 379ccb23f8b8123d21d9
+[09-Apr-2026 14:10:27 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:10:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('7bd7e9cd8f4a192...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:10:28 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:10:28 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:10:28 UTC] Token from URL (first 30 chars): 7bd7e9cd8f4a192b946133a6c1e449
+[09-Apr-2026 14:10:28 UTC] Token length: 64
+[09-Apr-2026 14:10:28 UTC] Verifying token - hash (first 20 chars): 379ccb23f8b8123d21d9
+[09-Apr-2026 14:10:28 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:10:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('7bd7e9cd8f4a192...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:10:28 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:10:28 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:10:28 UTC] Token from URL (first 30 chars): 7bd7e9cd8f4a192b946133a6c1e449
+[09-Apr-2026 14:10:28 UTC] Token length: 64
+[09-Apr-2026 14:10:28 UTC] Verifying token - hash (first 20 chars): 379ccb23f8b8123d21d9
+[09-Apr-2026 14:10:28 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:10:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('7bd7e9cd8f4a192...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:10:28 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:10:28 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:10:28 UTC] Token from URL (first 30 chars): 7bd7e9cd8f4a192b946133a6c1e449
+[09-Apr-2026 14:10:28 UTC] Token length: 64
+[09-Apr-2026 14:10:28 UTC] Verifying token - hash (first 20 chars): 379ccb23f8b8123d21d9
+[09-Apr-2026 14:10:28 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:10:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('7bd7e9cd8f4a192...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:10:29 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:10:29 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:10:29 UTC] Token from URL (first 30 chars): 7bd7e9cd8f4a192b946133a6c1e449
+[09-Apr-2026 14:10:29 UTC] Token length: 64
+[09-Apr-2026 14:10:29 UTC] Verifying token - hash (first 20 chars): 379ccb23f8b8123d21d9
+[09-Apr-2026 14:10:29 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:10:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('7bd7e9cd8f4a192...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:10:30 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:10:30 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:10:30 UTC] Token from URL (first 30 chars): 26260aa70d3a54a750bc57c402dc51
+[09-Apr-2026 14:10:30 UTC] Token length: 64
+[09-Apr-2026 14:10:30 UTC] Verifying token - hash (first 20 chars): 77556228d69f0b97ab31
+[09-Apr-2026 14:10:30 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:10:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('26260aa70d3a54a...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:10:31 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:10:31 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:10:31 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:10:32 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:10:32 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:10:39 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:10:41 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:10:41 UTC] === FORM SUBMITTED ===
+[09-Apr-2026 14:10:41 UTC] POST data: {"step":"1","email":"rohan.14yahoo@gmail.com"}
+[09-Apr-2026 14:10:41 UTC] === PASSWORD RESET REQUEST ===
+[09-Apr-2026 14:10:41 UTC] Email: rohan.14yahoo@gmail.com
+[09-Apr-2026 14:10:41 UTC] User found: 2
+[09-Apr-2026 14:10:41 UTC] START: generatePasswordResetToken for user 2
+[09-Apr-2026 14:10:41 UTC] Token hash: 6b0b4b0d67bca252ebad...
+[09-Apr-2026 14:10:41 UTC] Expires at: 2026-04-09 15:10:41
+[09-Apr-2026 14:10:41 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:10:41 UTC] Prepare succeeded
+[09-Apr-2026 14:10:41 UTC] Bind succeeded
+[09-Apr-2026 14:10:41 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:10:41 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:10:41 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:10:41 UTC] Token generated successfully (first 30 chars): dd81090afe3127fa94dfde480869dc
+[09-Apr-2026 14:10:43 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 382
+[09-Apr-2026 14:10:43 UTC] WARNING: Email sending failed. Test mode enabled.
+[09-Apr-2026 14:10:44 UTC] Cleanup: 1 expired tokens deleted
+[09-Apr-2026 14:10:44 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:10:44 UTC] Token from URL (first 30 chars): dd81090afe3127fa94dfde480869dc
+[09-Apr-2026 14:10:44 UTC] Token length: 64
+[09-Apr-2026 14:10:44 UTC] Verifying token - hash (first 20 chars): 6b0b4b0d67bca252ebad
+[09-Apr-2026 14:10:44 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:10:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('dd81090afe3127f...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:11:06 UTC] START: generatePasswordResetToken for user 2
+[09-Apr-2026 14:11:06 UTC] Token hash: 0163ff18fcd334f6ac27...
+[09-Apr-2026 14:11:06 UTC] Expires at: 2026-04-09 15:11:06
+[09-Apr-2026 14:11:06 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:11:06 UTC] Prepare succeeded
+[09-Apr-2026 14:11:06 UTC] Bind succeeded
+[09-Apr-2026 14:11:06 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:11:06 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:11:06 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:11:06 UTC] Verifying token - hash (first 20 chars): 0163ff18fcd334f6ac27
+[09-Apr-2026 14:11:06 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:11:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\debug-password-reset.php(87): SecurityHelper->verifyPasswordResetToken('211d1831acb2de7...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:11:29 UTC] Cleanup: 1 expired tokens deleted
+[09-Apr-2026 14:11:29 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:11:29 UTC] Token from URL (first 30 chars): dd81090afe3127fa94dfde480869dc
+[09-Apr-2026 14:11:29 UTC] Token length: 64
+[09-Apr-2026 14:11:29 UTC] Verifying token - hash (first 20 chars): 6b0b4b0d67bca252ebad
+[09-Apr-2026 14:11:29 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:11:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('dd81090afe3127f...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:11:30 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:11:30 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:11:30 UTC] Token from URL (first 30 chars): dd81090afe3127fa94dfde480869dc
+[09-Apr-2026 14:11:30 UTC] Token length: 64
+[09-Apr-2026 14:11:30 UTC] Verifying token - hash (first 20 chars): 6b0b4b0d67bca252ebad
+[09-Apr-2026 14:11:30 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:11:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('dd81090afe3127f...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:15:10 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:15:10 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:15:10 UTC] Token from URL (first 30 chars): dd81090afe3127fa94dfde480869dc
+[09-Apr-2026 14:15:10 UTC] Token length: 64
+[09-Apr-2026 14:15:10 UTC] Verifying token - hash (first 20 chars): 6b0b4b0d67bca252ebad
+[09-Apr-2026 14:15:10 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:15:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('dd81090afe3127f...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:15:11 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:15:11 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:15:11 UTC] Token from URL (first 30 chars): dd81090afe3127fa94dfde480869dc
+[09-Apr-2026 14:15:11 UTC] Token length: 64
+[09-Apr-2026 14:15:11 UTC] Verifying token - hash (first 20 chars): 6b0b4b0d67bca252ebad
+[09-Apr-2026 14:15:11 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:15:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('dd81090afe3127f...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:15:12 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:15:12 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:15:12 UTC] Token from URL (first 30 chars): dd81090afe3127fa94dfde480869dc
+[09-Apr-2026 14:15:12 UTC] Token length: 64
+[09-Apr-2026 14:15:12 UTC] Verifying token - hash (first 20 chars): 6b0b4b0d67bca252ebad
+[09-Apr-2026 14:15:12 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:15:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('dd81090afe3127f...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:15:12 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:15:12 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:15:12 UTC] Token from URL (first 30 chars): dd81090afe3127fa94dfde480869dc
+[09-Apr-2026 14:15:12 UTC] Token length: 64
+[09-Apr-2026 14:15:12 UTC] Verifying token - hash (first 20 chars): 6b0b4b0d67bca252ebad
+[09-Apr-2026 14:15:12 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:15:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('dd81090afe3127f...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:15:12 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:15:12 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:15:12 UTC] Token from URL (first 30 chars): dd81090afe3127fa94dfde480869dc
+[09-Apr-2026 14:15:12 UTC] Token length: 64
+[09-Apr-2026 14:15:12 UTC] Verifying token - hash (first 20 chars): 6b0b4b0d67bca252ebad
+[09-Apr-2026 14:15:12 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:15:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('dd81090afe3127f...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:15:13 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:15:13 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:15:13 UTC] Token from URL (first 30 chars): dd81090afe3127fa94dfde480869dc
+[09-Apr-2026 14:15:13 UTC] Token length: 64
+[09-Apr-2026 14:15:13 UTC] Verifying token - hash (first 20 chars): 6b0b4b0d67bca252ebad
+[09-Apr-2026 14:15:13 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:15:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('dd81090afe3127f...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:15:13 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:15:13 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:15:13 UTC] Token from URL (first 30 chars): dd81090afe3127fa94dfde480869dc
+[09-Apr-2026 14:15:13 UTC] Token length: 64
+[09-Apr-2026 14:15:13 UTC] Verifying token - hash (first 20 chars): 6b0b4b0d67bca252ebad
+[09-Apr-2026 14:15:13 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:15:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('dd81090afe3127f...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:15:15 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:15:15 UTC] === FORM SUBMITTED ===
+[09-Apr-2026 14:15:15 UTC] POST data: {"step":"1","email":"rohan.14yahoo@gmail.com"}
+[09-Apr-2026 14:15:15 UTC] === PASSWORD RESET REQUEST ===
+[09-Apr-2026 14:15:15 UTC] Email: rohan.14yahoo@gmail.com
+[09-Apr-2026 14:15:15 UTC] User found: 2
+[09-Apr-2026 14:15:15 UTC] START: generatePasswordResetToken for user 2
+[09-Apr-2026 14:15:15 UTC] Token hash: 68d245787b64d5c6fb7a...
+[09-Apr-2026 14:15:15 UTC] Expires at: 2026-04-09 15:15:15
+[09-Apr-2026 14:15:15 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:15:15 UTC] Prepare succeeded
+[09-Apr-2026 14:15:15 UTC] Bind succeeded
+[09-Apr-2026 14:15:15 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:15:15 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:15:15 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:15:15 UTC] Token generated successfully (first 30 chars): ebda11756c10145097de55c88da661
+[09-Apr-2026 14:15:17 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 382
+[09-Apr-2026 14:15:17 UTC] WARNING: Email sending failed. Test mode enabled.
+[09-Apr-2026 14:15:17 UTC] Cleanup: 1 expired tokens deleted
+[09-Apr-2026 14:15:17 UTC] === FORM SUBMITTED ===
+[09-Apr-2026 14:15:17 UTC] POST data: {"step":"1","email":"rohan.14yahoo@gmail.com"}
+[09-Apr-2026 14:15:17 UTC] === PASSWORD RESET REQUEST ===
+[09-Apr-2026 14:15:17 UTC] Email: rohan.14yahoo@gmail.com
+[09-Apr-2026 14:15:17 UTC] User found: 2
+[09-Apr-2026 14:15:17 UTC] START: generatePasswordResetToken for user 2
+[09-Apr-2026 14:15:17 UTC] Token hash: e72467f39fa075d4fbde...
+[09-Apr-2026 14:15:17 UTC] Expires at: 2026-04-09 15:15:17
+[09-Apr-2026 14:15:17 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:15:17 UTC] Prepare succeeded
+[09-Apr-2026 14:15:17 UTC] Bind succeeded
+[09-Apr-2026 14:15:17 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:15:17 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:15:17 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:15:17 UTC] Token generated successfully (first 30 chars): 2c1917b6d9748e676184ea7718a75e
+[09-Apr-2026 14:15:19 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 382
+[09-Apr-2026 14:15:19 UTC] WARNING: Email sending failed. Test mode enabled.
+[09-Apr-2026 14:15:21 UTC] Cleanup: 1 expired tokens deleted
+[09-Apr-2026 14:15:21 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:15:21 UTC] Token from URL (first 30 chars): 2c1917b6d9748e676184ea7718a75e
+[09-Apr-2026 14:15:21 UTC] Token length: 64
+[09-Apr-2026 14:15:21 UTC] Verifying token - hash (first 20 chars): e72467f39fa075d4fbde
+[09-Apr-2026 14:15:21 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:15:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_reset_tokens WHERE token = ?' at line 1 in C:\xampp\htdocs\libsystem\includes\security.php:161
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(161): mysqli->prepare('SELECT id, user...')
+#1 C:\xampp\htdocs\libsystem\reset-password.php(110): SecurityHelper->verifyPasswordResetToken('2c1917b6d9748e6...')
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 161
+[09-Apr-2026 14:18:06 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:18:34 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:18:45 UTC] === FORM SUBMITTED ===
+[09-Apr-2026 14:18:45 UTC] POST data: {"step":"1","email":"rohan.14yahoo@gmail.com"}
+[09-Apr-2026 14:18:45 UTC] === PASSWORD RESET REQUEST ===
+[09-Apr-2026 14:18:45 UTC] Email: rohan.14yahoo@gmail.com
+[09-Apr-2026 14:18:45 UTC] User found: 2
+[09-Apr-2026 14:18:45 UTC] START: generatePasswordResetToken for user 2
+[09-Apr-2026 14:18:45 UTC] Token hash: 97c71147a435df9877eb...
+[09-Apr-2026 14:18:45 UTC] Expires at: 2026-04-09 15:18:45
+[09-Apr-2026 14:18:45 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:18:45 UTC] Prepare succeeded
+[09-Apr-2026 14:18:45 UTC] Bind succeeded
+[09-Apr-2026 14:18:45 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:18:45 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:18:45 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:18:45 UTC] Token generated successfully (first 30 chars): c87ed965f474fb7be8b98b6cdfbc27
+[09-Apr-2026 14:18:47 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 376
+[09-Apr-2026 14:18:47 UTC] WARNING: Email sending failed. Test mode enabled.
+[09-Apr-2026 14:18:47 UTC] Cleanup: 1 expired tokens deleted
+[09-Apr-2026 14:18:47 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:18:47 UTC] Token from URL (first 30 chars): c87ed965f474fb7be8b98b6cdfbc27
+[09-Apr-2026 14:18:47 UTC] Token length: 64
+[09-Apr-2026 14:18:47 UTC] Verifying token - hash (first 20 chars): 97c71147a435df9877eb
+[09-Apr-2026 14:18:47 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:18:47 UTC] Verification result - user_id: FALSE
+[09-Apr-2026 14:18:47 UTC] ERROR: Token verification failed
+[09-Apr-2026 14:18:47 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:18:54 UTC] START: generatePasswordResetToken for user 1
+[09-Apr-2026 14:18:54 UTC] Token hash: c397a5a2ea56a3ab2f8e...
+[09-Apr-2026 14:18:54 UTC] Expires at: 2026-04-09 15:18:54
+[09-Apr-2026 14:18:54 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:18:54 UTC] Prepare succeeded
+[09-Apr-2026 14:18:54 UTC] Bind succeeded
+[09-Apr-2026 14:18:54 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:18:54 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:18:54 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:18:54 UTC] Verifying token - hash (first 20 chars): c397a5a2ea56a3ab2f8e
+[09-Apr-2026 14:18:54 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:19:34 UTC] START: generatePasswordResetToken for user 1
+[09-Apr-2026 14:19:34 UTC] Token hash: eea83bcc5f2f3b627644...
+[09-Apr-2026 14:19:34 UTC] Expires at: 2026-04-09 15:19:34
+[09-Apr-2026 14:19:34 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:19:34 UTC] Prepare succeeded
+[09-Apr-2026 14:19:34 UTC] Bind succeeded
+[09-Apr-2026 14:19:34 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:19:34 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:19:34 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:19:34 UTC] Verifying token - hash (first 20 chars): eea83bcc5f2f3b627644
+[09-Apr-2026 14:19:34 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:20:34 UTC] START: generatePasswordResetToken for user 1
+[09-Apr-2026 14:20:34 UTC] Token hash: 6bda5057ac5379fee0c7...
+[09-Apr-2026 14:20:34 UTC] Expires at: 2026-04-09 15:20:34
+[09-Apr-2026 14:20:34 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:20:34 UTC] Prepare succeeded
+[09-Apr-2026 14:20:34 UTC] Bind succeeded
+[09-Apr-2026 14:20:34 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:20:34 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:20:34 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:20:34 UTC] Verifying token - hash (first 20 chars): 6bda5057ac5379fee0c7
+[09-Apr-2026 14:20:34 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:24:28 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:24:28 UTC] Token from URL (first 30 chars): 2c1917b6d9748e676184ea7718a75e
+[09-Apr-2026 14:24:28 UTC] Token length: 64
+[09-Apr-2026 14:24:28 UTC] Verifying token - hash (first 20 chars): e72467f39fa075d4fbde
+[09-Apr-2026 14:24:28 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:24:28 UTC] Verification result - user_id: FALSE
+[09-Apr-2026 14:24:28 UTC] ERROR: Token verification failed
+[09-Apr-2026 14:24:28 UTC] Cleanup: 1 expired tokens deleted
+[09-Apr-2026 14:24:30 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:24:30 UTC] Token from URL (first 30 chars): 2c1917b6d9748e676184ea7718a75e
+[09-Apr-2026 14:24:30 UTC] Token length: 64
+[09-Apr-2026 14:24:30 UTC] Verifying token - hash (first 20 chars): e72467f39fa075d4fbde
+[09-Apr-2026 14:24:30 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:24:30 UTC] Verification result - user_id: FALSE
+[09-Apr-2026 14:24:30 UTC] ERROR: Token verification failed
+[09-Apr-2026 14:24:30 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:24:30 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:24:30 UTC] Token from URL (first 30 chars): 2c1917b6d9748e676184ea7718a75e
+[09-Apr-2026 14:24:30 UTC] Token length: 64
+[09-Apr-2026 14:24:30 UTC] Verifying token - hash (first 20 chars): e72467f39fa075d4fbde
+[09-Apr-2026 14:24:30 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:24:30 UTC] Verification result - user_id: FALSE
+[09-Apr-2026 14:24:30 UTC] ERROR: Token verification failed
+[09-Apr-2026 14:24:30 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:24:31 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:24:31 UTC] Token from URL (first 30 chars): 2c1917b6d9748e676184ea7718a75e
+[09-Apr-2026 14:24:31 UTC] Token length: 64
+[09-Apr-2026 14:24:31 UTC] Verifying token - hash (first 20 chars): e72467f39fa075d4fbde
+[09-Apr-2026 14:24:31 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:24:31 UTC] Verification result - user_id: FALSE
+[09-Apr-2026 14:24:31 UTC] ERROR: Token verification failed
+[09-Apr-2026 14:24:31 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:24:31 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:24:31 UTC] Token from URL (first 30 chars): 2c1917b6d9748e676184ea7718a75e
+[09-Apr-2026 14:24:31 UTC] Token length: 64
+[09-Apr-2026 14:24:31 UTC] Verifying token - hash (first 20 chars): e72467f39fa075d4fbde
+[09-Apr-2026 14:24:31 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:24:31 UTC] Verification result - user_id: FALSE
+[09-Apr-2026 14:24:31 UTC] ERROR: Token verification failed
+[09-Apr-2026 14:24:31 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:24:33 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:24:41 UTC] === FORM SUBMITTED ===
+[09-Apr-2026 14:24:41 UTC] POST data: {"step":"1","email":"rohan.14yahoo@gmail.com"}
+[09-Apr-2026 14:24:41 UTC] === PASSWORD RESET REQUEST ===
+[09-Apr-2026 14:24:41 UTC] Email: rohan.14yahoo@gmail.com
+[09-Apr-2026 14:24:41 UTC] User found: 2
+[09-Apr-2026 14:24:41 UTC] START: generatePasswordResetToken for user 2
+[09-Apr-2026 14:24:41 UTC] Token hash: a53d906f1dacbf44f6c3...
+[09-Apr-2026 14:24:41 UTC] Expires at: 2026-04-09 15:24:41
+[09-Apr-2026 14:24:41 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:24:41 UTC] Prepare succeeded
+[09-Apr-2026 14:24:41 UTC] Bind succeeded
+[09-Apr-2026 14:24:41 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:24:41 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:24:41 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:24:41 UTC] Token generated successfully (first 30 chars): 54aa8838932fc1a2ab8c62fbde127e
+[09-Apr-2026 14:24:43 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 377
+[09-Apr-2026 14:24:43 UTC] WARNING: Email sending failed. Test mode enabled.
+[09-Apr-2026 14:24:43 UTC] Cleanup: 1 expired tokens deleted
+[09-Apr-2026 14:24:44 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:24:44 UTC] Token from URL (first 30 chars): 54aa8838932fc1a2ab8c62fbde127e
+[09-Apr-2026 14:24:44 UTC] Token length: 64
+[09-Apr-2026 14:24:44 UTC] Verifying token - hash (first 20 chars): a53d906f1dacbf44f6c3
+[09-Apr-2026 14:24:44 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:24:44 UTC] Verification result - user_id: FALSE
+[09-Apr-2026 14:24:44 UTC] ERROR: Token verification failed
+[09-Apr-2026 14:24:44 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:25:45 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:25:45 UTC] Token from URL (first 30 chars): 2c1917b6d9748e676184ea7718a75e
+[09-Apr-2026 14:25:45 UTC] Token length: 64
+[09-Apr-2026 14:25:45 UTC] Verifying token - hash (first 20 chars): e72467f39fa075d4fbde
+[09-Apr-2026 14:25:45 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:25:45 UTC] Verification result - user_id: FALSE
+[09-Apr-2026 14:25:45 UTC] ERROR: Token verification failed
+[09-Apr-2026 14:25:45 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:25:45 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:25:45 UTC] Token from URL (first 30 chars): 2c1917b6d9748e676184ea7718a75e
+[09-Apr-2026 14:25:45 UTC] Token length: 64
+[09-Apr-2026 14:25:45 UTC] Verifying token - hash (first 20 chars): e72467f39fa075d4fbde
+[09-Apr-2026 14:25:45 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:25:45 UTC] Verification result - user_id: FALSE
+[09-Apr-2026 14:25:45 UTC] ERROR: Token verification failed
+[09-Apr-2026 14:25:45 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:25:45 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:25:45 UTC] Token from URL (first 30 chars): 2c1917b6d9748e676184ea7718a75e
+[09-Apr-2026 14:25:45 UTC] Token length: 64
+[09-Apr-2026 14:25:45 UTC] Verifying token - hash (first 20 chars): e72467f39fa075d4fbde
+[09-Apr-2026 14:25:45 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:25:45 UTC] Verification result - user_id: FALSE
+[09-Apr-2026 14:25:45 UTC] ERROR: Token verification failed
+[09-Apr-2026 14:25:45 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:25:45 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:25:45 UTC] Token from URL (first 30 chars): 2c1917b6d9748e676184ea7718a75e
+[09-Apr-2026 14:25:45 UTC] Token length: 64
+[09-Apr-2026 14:25:45 UTC] Verifying token - hash (first 20 chars): e72467f39fa075d4fbde
+[09-Apr-2026 14:25:45 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:25:45 UTC] Verification result - user_id: FALSE
+[09-Apr-2026 14:25:45 UTC] ERROR: Token verification failed
+[09-Apr-2026 14:25:45 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:25:48 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:26:50 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:27:52 UTC] START: generatePasswordResetToken for user 1
+[09-Apr-2026 14:27:52 UTC] Token hash: f3d4d80a28967beaea48...
+[09-Apr-2026 14:27:52 UTC] Expires at: 2026-04-09 15:27:52
+[09-Apr-2026 14:27:52 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:27:52 UTC] Prepare succeeded
+[09-Apr-2026 14:27:52 UTC] Bind succeeded
+[09-Apr-2026 14:27:52 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:27:52 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:27:52 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:27:52 UTC] Verifying token - hash (first 20 chars): f3d4d80a28967beaea48
+[09-Apr-2026 14:27:52 UTC] Token is VALID - user_id: 1
+[09-Apr-2026 14:27:58 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:27:58 UTC] Token from URL (first 30 chars): 206e2bc26f584e7f0e32f75561496b
+[09-Apr-2026 14:27:58 UTC] Token length: 64
+[09-Apr-2026 14:27:58 UTC] Verifying token - hash (first 20 chars): f3d4d80a28967beaea48
+[09-Apr-2026 14:27:58 UTC] Token is VALID - user_id: 1
+[09-Apr-2026 14:27:58 UTC] Verification result - user_id: 1
+[09-Apr-2026 14:27:58 UTC] SUCCESS: Token verified for user 1
+[09-Apr-2026 14:27:58 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:27:58 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:27:58 UTC] Token from URL (first 30 chars): 206e2bc26f584e7f0e32f75561496b
+[09-Apr-2026 14:27:58 UTC] Token length: 64
+[09-Apr-2026 14:27:58 UTC] Verifying token - hash (first 20 chars): f3d4d80a28967beaea48
+[09-Apr-2026 14:27:58 UTC] Token is VALID - user_id: 1
+[09-Apr-2026 14:27:58 UTC] Verification result - user_id: 1
+[09-Apr-2026 14:27:58 UTC] SUCCESS: Token verified for user 1
+[09-Apr-2026 14:27:58 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:28:04 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:28:06 UTC] === FORM SUBMITTED ===
+[09-Apr-2026 14:28:06 UTC] POST data: {"step":"1","email":"rohan.14yahoo@gmail.com"}
+[09-Apr-2026 14:28:06 UTC] === PASSWORD RESET REQUEST ===
+[09-Apr-2026 14:28:06 UTC] Email: rohan.14yahoo@gmail.com
+[09-Apr-2026 14:28:06 UTC] User found: 2
+[09-Apr-2026 14:28:06 UTC] START: generatePasswordResetToken for user 2
+[09-Apr-2026 14:28:06 UTC] Token hash: 415cc3af00bf1eb2c099...
+[09-Apr-2026 14:28:06 UTC] Expires at: 2026-04-09 15:28:06
+[09-Apr-2026 14:28:06 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:28:06 UTC] Prepare succeeded
+[09-Apr-2026 14:28:06 UTC] Bind succeeded
+[09-Apr-2026 14:28:06 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:28:06 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:28:06 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:28:06 UTC] Token generated successfully (first 30 chars): 8a78d5c0bf469445e5ad392b58469f
+[09-Apr-2026 14:28:08 UTC] START: generatePasswordResetToken for user 1
+[09-Apr-2026 14:28:08 UTC] Token hash: 60081301533dbe84cbc9...
+[09-Apr-2026 14:28:08 UTC] Expires at: 2026-04-09 15:28:08
+[09-Apr-2026 14:28:08 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:28:08 UTC] Prepare succeeded
+[09-Apr-2026 14:28:08 UTC] Bind succeeded
+[09-Apr-2026 14:28:08 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:28:08 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:28:08 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:28:09 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 377
+[09-Apr-2026 14:28:09 UTC] WARNING: Email sending failed. Test mode enabled.
+[09-Apr-2026 14:28:09 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:28:09 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:28:09 UTC] Token from URL (first 30 chars): 8a78d5c0bf469445e5ad392b58469f
+[09-Apr-2026 14:28:09 UTC] Token length: 64
+[09-Apr-2026 14:28:09 UTC] Verifying token - hash (first 20 chars): 415cc3af00bf1eb2c099
+[09-Apr-2026 14:28:09 UTC] Token is VALID - user_id: 2
+[09-Apr-2026 14:28:09 UTC] Verification result - user_id: 2
+[09-Apr-2026 14:28:09 UTC] SUCCESS: Token verified for user 2
+[09-Apr-2026 14:28:09 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:28:18 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:28:18 UTC] Token from URL (first 30 chars): 8a78d5c0bf469445e5ad392b58469f
+[09-Apr-2026 14:28:18 UTC] Token length: 64
+[09-Apr-2026 14:28:18 UTC] Verifying token - hash (first 20 chars): 415cc3af00bf1eb2c099
+[09-Apr-2026 14:28:18 UTC] Token is VALID - user_id: 2
+[09-Apr-2026 14:28:18 UTC] Verification result - user_id: 2
+[09-Apr-2026 14:28:18 UTC] SUCCESS: Token verified for user 2
+[09-Apr-2026 14:28:18 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:28:19 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:28:19 UTC] Token from URL (first 30 chars): 8a78d5c0bf469445e5ad392b58469f
+[09-Apr-2026 14:28:19 UTC] Token length: 64
+[09-Apr-2026 14:28:19 UTC] Verifying token - hash (first 20 chars): 415cc3af00bf1eb2c099
+[09-Apr-2026 14:28:19 UTC] Token is VALID - user_id: 2
+[09-Apr-2026 14:28:19 UTC] Verification result - user_id: 2
+[09-Apr-2026 14:28:19 UTC] SUCCESS: Token verified for user 2
+[09-Apr-2026 14:28:19 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:28:20 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:28:27 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:28:27 UTC] Token from URL (first 30 chars): ca3af7b74404ca8913ffaeaff3d635
+[09-Apr-2026 14:28:27 UTC] Token length: 64
+[09-Apr-2026 14:28:27 UTC] Verifying token - hash (first 20 chars): 60081301533dbe84cbc9
+[09-Apr-2026 14:28:27 UTC] Token is VALID - user_id: 1
+[09-Apr-2026 14:28:27 UTC] Verification result - user_id: 1
+[09-Apr-2026 14:28:27 UTC] SUCCESS: Token verified for user 1
+[09-Apr-2026 14:28:27 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:28:27 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:28:27 UTC] Token from URL (first 30 chars): ca3af7b74404ca8913ffaeaff3d635
+[09-Apr-2026 14:28:27 UTC] Token length: 64
+[09-Apr-2026 14:28:27 UTC] Verifying token - hash (first 20 chars): 60081301533dbe84cbc9
+[09-Apr-2026 14:28:27 UTC] Token is VALID - user_id: 1
+[09-Apr-2026 14:28:27 UTC] Verification result - user_id: 1
+[09-Apr-2026 14:28:27 UTC] SUCCESS: Token verified for user 1
+[09-Apr-2026 14:28:27 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:28:32 UTC] PHP Fatal error:  Uncaught Error: Class "DatabaseHelper" not found in C:\xampp\htdocs\libsystem\test-reset-direct.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\libsystem\test-reset-direct.php on line 10
+[09-Apr-2026 14:28:51 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:28:51 UTC] Token from URL (first 30 chars): 60081301533dbe84cbc9494e7d879f
+[09-Apr-2026 14:28:51 UTC] Token length: 64
+[09-Apr-2026 14:28:51 UTC] Verifying token - hash (first 20 chars): cd52c01201524d17f5f0
+[09-Apr-2026 14:28:51 UTC] Token is INVALID - no matching active unexpired token found
+[09-Apr-2026 14:28:51 UTC] Verification result - user_id: FALSE
+[09-Apr-2026 14:28:51 UTC] ERROR: Token verification failed
+[09-Apr-2026 14:28:51 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:28:57 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:29:00 UTC] === FORM SUBMITTED ===
+[09-Apr-2026 14:29:00 UTC] POST data: {"step":"1","email":"rohan.14yahoo@gmail.com"}
+[09-Apr-2026 14:29:00 UTC] === PASSWORD RESET REQUEST ===
+[09-Apr-2026 14:29:00 UTC] Email: rohan.14yahoo@gmail.com
+[09-Apr-2026 14:29:00 UTC] User found: 2
+[09-Apr-2026 14:29:00 UTC] START: generatePasswordResetToken for user 2
+[09-Apr-2026 14:29:00 UTC] Token hash: 48924b3d7976bdcdfb14...
+[09-Apr-2026 14:29:00 UTC] Expires at: 2026-04-09 15:29:00
+[09-Apr-2026 14:29:00 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:29:00 UTC] Prepare succeeded
+[09-Apr-2026 14:29:00 UTC] Bind succeeded
+[09-Apr-2026 14:29:00 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:29:00 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:29:00 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:29:00 UTC] Token generated successfully (first 30 chars): 8e08528c7bafe199adb15039070745
+[09-Apr-2026 14:29:02 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 377
+[09-Apr-2026 14:29:02 UTC] WARNING: Email sending failed. Test mode enabled.
+[09-Apr-2026 14:29:02 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:29:03 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:29:03 UTC] Token from URL (first 30 chars): 8e08528c7bafe199adb15039070745
+[09-Apr-2026 14:29:03 UTC] Token length: 64
+[09-Apr-2026 14:29:03 UTC] Verifying token - hash (first 20 chars): 48924b3d7976bdcdfb14
+[09-Apr-2026 14:29:03 UTC] Token is VALID - user_id: 2
+[09-Apr-2026 14:29:03 UTC] Verification result - user_id: 2
+[09-Apr-2026 14:29:03 UTC] SUCCESS: Token verified for user 2
+[09-Apr-2026 14:29:03 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:29:05 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:30:06 UTC] Cleared old tokens
+[09-Apr-2026 14:30:06 UTC] START: generatePasswordResetToken for user 1
+[09-Apr-2026 14:30:06 UTC] Token hash: 7b2f76049db3607f0c1a...
+[09-Apr-2026 14:30:06 UTC] Expires at: 2026-04-09 15:30:06
+[09-Apr-2026 14:30:06 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:30:06 UTC] Prepare succeeded
+[09-Apr-2026 14:30:06 UTC] Bind succeeded
+[09-Apr-2026 14:30:06 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:30:06 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:30:06 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:30:16 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:30:16 UTC] Token from URL (first 30 chars): 67dccfc34b379633f9d3e52d08be23
+[09-Apr-2026 14:30:16 UTC] Token length: 64
+[09-Apr-2026 14:30:16 UTC] Verifying token - hash (first 20 chars): 7b2f76049db3607f0c1a
+[09-Apr-2026 14:30:16 UTC] Token is VALID - user_id: 1
+[09-Apr-2026 14:30:16 UTC] Verification result - user_id: 1
+[09-Apr-2026 14:30:16 UTC] SUCCESS: Token verified for user 1
+[09-Apr-2026 14:30:16 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:30:16 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:30:16 UTC] Token from URL (first 30 chars): 67dccfc34b379633f9d3e52d08be23
+[09-Apr-2026 14:30:16 UTC] Token length: 64
+[09-Apr-2026 14:30:16 UTC] Verifying token - hash (first 20 chars): 7b2f76049db3607f0c1a
+[09-Apr-2026 14:30:16 UTC] Token is VALID - user_id: 1
+[09-Apr-2026 14:30:16 UTC] Verification result - user_id: 1
+[09-Apr-2026 14:30:16 UTC] SUCCESS: Token verified for user 1
+[09-Apr-2026 14:30:16 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:30:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\libsystem\test-complete-flow.php on line 9
+[09-Apr-2026 14:30:52 UTC] START: generatePasswordResetToken for user 1
+[09-Apr-2026 14:30:52 UTC] Token hash: c224ef393b9e3b54ded3...
+[09-Apr-2026 14:30:53 UTC] Expires at: 2026-04-09 15:30:53
+[09-Apr-2026 14:30:53 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:30:53 UTC] Prepare succeeded
+[09-Apr-2026 14:30:53 UTC] Bind succeeded
+[09-Apr-2026 14:30:53 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:30:53 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:30:53 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:30:53 UTC] Verifying token - hash (first 20 chars): c224ef393b9e3b54ded3
+[09-Apr-2026 14:30:53 UTC] Token is VALID - user_id: 1
+[09-Apr-2026 14:31:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\libsystem\e2e-test.php on line 9
+[09-Apr-2026 14:31:24 UTC] START: generatePasswordResetToken for user 1
+[09-Apr-2026 14:31:24 UTC] Token hash: 3b48fb2c6053f95f2975...
+[09-Apr-2026 14:31:24 UTC] Expires at: 2026-04-09 15:31:24
+[09-Apr-2026 14:31:24 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:31:24 UTC] Prepare succeeded
+[09-Apr-2026 14:31:24 UTC] Bind succeeded
+[09-Apr-2026 14:31:24 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:31:24 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:31:24 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:31:24 UTC] Verifying token - hash (first 20 chars): 3b48fb2c6053f95f2975
+[09-Apr-2026 14:31:24 UTC] Token is VALID - user_id: 1
+[09-Apr-2026 14:33:19 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:33:20 UTC] === FORM SUBMITTED ===
+[09-Apr-2026 14:33:20 UTC] POST data: {"step":"1","email":"rohan.14yahoo@gmail.com"}
+[09-Apr-2026 14:33:20 UTC] === PASSWORD RESET REQUEST ===
+[09-Apr-2026 14:33:20 UTC] Email: rohan.14yahoo@gmail.com
+[09-Apr-2026 14:33:20 UTC] User found: 2
+[09-Apr-2026 14:33:20 UTC] START: generatePasswordResetToken for user 2
+[09-Apr-2026 14:33:20 UTC] Token hash: bd0246b8cad02f72eb34...
+[09-Apr-2026 14:33:20 UTC] Expires at: 2026-04-09 15:33:20
+[09-Apr-2026 14:33:20 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[09-Apr-2026 14:33:20 UTC] Prepare succeeded
+[09-Apr-2026 14:33:20 UTC] Bind succeeded
+[09-Apr-2026 14:33:20 UTC] INSERT succeeded - affected rows: 1
+[09-Apr-2026 14:33:20 UTC] Verify: Token found in DB = YES
+[09-Apr-2026 14:33:20 UTC] Returning unhashed token for email transmission
+[09-Apr-2026 14:33:20 UTC] Token generated successfully (first 30 chars): 4a586ef5023a6720cbfe5df9e21ab6
+[09-Apr-2026 14:33:22 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 377
+[09-Apr-2026 14:33:22 UTC] WARNING: Email sending failed. Test mode enabled.
+[09-Apr-2026 14:33:22 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:33:23 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:33:23 UTC] Token from URL (first 30 chars): 4a586ef5023a6720cbfe5df9e21ab6
+[09-Apr-2026 14:33:23 UTC] Token length: 64
+[09-Apr-2026 14:33:23 UTC] Verifying token - hash (first 20 chars): bd0246b8cad02f72eb34
+[09-Apr-2026 14:33:23 UTC] Token is VALID - user_id: 2
+[09-Apr-2026 14:33:23 UTC] Verification result - user_id: 2
+[09-Apr-2026 14:33:23 UTC] SUCCESS: Token verified for user 2
+[09-Apr-2026 14:33:23 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 14:33:36 UTC] === FORM SUBMITTED ===
+[09-Apr-2026 14:33:36 UTC] POST data: {"reset_token":"4a586ef5023a6720cbfe5df9e21ab64d71c511d66c52cfb5354617e8920ee1f0","new_password":"User2x2004","confirm_password":"User2x2004"}
+[09-Apr-2026 14:33:36 UTC] === TOKEN VERIFICATION ===
+[09-Apr-2026 14:33:36 UTC] Token from URL (first 30 chars): 4a586ef5023a6720cbfe5df9e21ab6
+[09-Apr-2026 14:33:36 UTC] Token length: 64
+[09-Apr-2026 14:33:36 UTC] Verifying token - hash (first 20 chars): bd0246b8cad02f72eb34
+[09-Apr-2026 14:33:36 UTC] Token is VALID - user_id: 2
+[09-Apr-2026 14:33:36 UTC] Verification result - user_id: 2
+[09-Apr-2026 14:33:36 UTC] SUCCESS: Token verified for user 2
+[09-Apr-2026 14:33:36 UTC] === PASSWORD RESET SUBMISSION ===
+[09-Apr-2026 14:33:36 UTC] Token (first 30 chars): 4a586ef5023a6720cbfe5df9e21ab6
+[09-Apr-2026 14:33:36 UTC] Verifying token - hash (first 20 chars): bd0246b8cad02f72eb34
+[09-Apr-2026 14:33:36 UTC] Token is VALID - user_id: 2
+[09-Apr-2026 14:33:36 UTC] Token verification result: 2
+[09-Apr-2026 14:33:36 UTC] Token successfully marked as used
+[09-Apr-2026 14:33:36 UTC] SUCCESS: Password reset for user 2, token marked as used
+[09-Apr-2026 14:33:36 UTC] Cleanup: 0 expired tokens deleted
+[09-Apr-2026 15:12:57 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 404
+[09-Apr-2026 15:58:00 UTC] Cleanup: 4 expired tokens deleted
+[10-Apr-2026 06:29:27 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\security.php on line 404
+[10-Apr-2026 06:36:33 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 43
+[10-Apr-2026 06:47:38 UTC] Email STARTTLS Error: 250-SIZE 5242880
+[10-Apr-2026 06:50:31 UTC] Email: Successfully sent to hentailover1959@gmail.com
+[10-Apr-2026 06:50:32 UTC] Email: DATA error: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing
+[10-Apr-2026 06:50:32 UTC] Email: SMTP failed, falling back to PHP mail()
+[10-Apr-2026 06:50:34 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 51
+[10-Apr-2026 06:50:46 UTC] Email: Successfully sent to hentailover1959@gmail.com
+[10-Apr-2026 06:52:59 UTC] Email: Successfully sent to paul@gmail.com
+[10-Apr-2026 06:57:02 UTC] Email: Successfully sent to paul@gmail.com
+[10-Apr-2026 07:02:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`library_management`.`login_attempts`, CONSTRAINT `login_attempts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE) in C:\xampp\htdocs\libsystem\includes\security.php:65
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(65): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\libsystem\index.php(52): SecurityHelper->recordLoginAttempt('paul@gmail.com', 0, false)
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 65
+[10-Apr-2026 07:03:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`library_management`.`login_attempts`, CONSTRAINT `login_attempts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE) in C:\xampp\htdocs\libsystem\includes\security.php:65
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(65): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\libsystem\index.php(52): SecurityHelper->recordLoginAttempt('paul@gmail.com', 0, false)
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 65
+[10-Apr-2026 07:03:36 UTC] Email: Successfully sent to paul@gmail.com
+[10-Apr-2026 07:04:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`library_management`.`login_attempts`, CONSTRAINT `login_attempts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE) in C:\xampp\htdocs\libsystem\includes\security.php:65
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(65): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\libsystem\index.php(52): SecurityHelper->recordLoginAttempt('paul@gmail.com', 0, false)
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 65
+[10-Apr-2026 07:05:01 UTC] Email: Successfully sent to paul@gmail.com
+[10-Apr-2026 07:11:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`library_management`.`login_attempts`, CONSTRAINT `login_attempts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE) in C:\xampp\htdocs\libsystem\includes\security.php:65
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(65): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\libsystem\index.php(60): SecurityHelper->recordLoginAttempt('paul@gmail.com', 0, false)
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 65
+[10-Apr-2026 07:11:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`library_management`.`login_attempts`, CONSTRAINT `login_attempts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE) in C:\xampp\htdocs\libsystem\includes\security.php:65
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(65): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\libsystem\index.php(60): SecurityHelper->recordLoginAttempt('paul@gmail.com', 0, false)
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 65
+[10-Apr-2026 07:11:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`library_management`.`login_attempts`, CONSTRAINT `login_attempts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE) in C:\xampp\htdocs\libsystem\includes\security.php:65
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(65): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\libsystem\index.php(60): SecurityHelper->recordLoginAttempt('paul@gmail.com', 0, false)
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 65
+[10-Apr-2026 07:12:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`library_management`.`login_attempts`, CONSTRAINT `login_attempts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`user_id`) ON DELETE CASCADE) in C:\xampp\htdocs\libsystem\includes\security.php:65
+Stack trace:
+#0 C:\xampp\htdocs\libsystem\includes\security.php(65): mysqli_stmt->execute()
+#1 C:\xampp\htdocs\libsystem\index.php(60): SecurityHelper->recordLoginAttempt('user@library.co...', 0, false)
+#2 {main}
+  thrown in C:\xampp\htdocs\libsystem\includes\security.php on line 65
+[10-Apr-2026 07:16:18 UTC] Cleanup: 0 expired tokens deleted
+[10-Apr-2026 07:16:23 UTC] === FORM SUBMITTED ===
+[10-Apr-2026 07:16:23 UTC] POST data: {"step":"1","email":"rohan.14yahoo@gmail.com"}
+[10-Apr-2026 07:16:23 UTC] === PASSWORD RESET REQUEST ===
+[10-Apr-2026 07:16:23 UTC] Email: rohan.14yahoo@gmail.com
+[10-Apr-2026 07:16:23 UTC] User found: 2
+[10-Apr-2026 07:16:23 UTC] START: generatePasswordResetToken for user 2
+[10-Apr-2026 07:16:23 UTC] Token hash: 5ce2eaa30095537a6c18...
+[10-Apr-2026 07:16:23 UTC] Expires at: 2026-04-10 08:16:23
+[10-Apr-2026 07:16:23 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[10-Apr-2026 07:16:23 UTC] Prepare succeeded
+[10-Apr-2026 07:16:23 UTC] Bind succeeded
+[10-Apr-2026 07:16:23 UTC] INSERT succeeded - affected rows: 1
+[10-Apr-2026 07:16:23 UTC] Verify: Token found in DB = YES
+[10-Apr-2026 07:16:23 UTC] Returning unhashed token for email transmission
+[10-Apr-2026 07:16:23 UTC] Token generated successfully (first 30 chars): ed1759192f04041fb4edb0be7a3b56
+[10-Apr-2026 07:16:26 UTC] Email: Successfully sent to rohan.14yahoo@gmail.com
+[10-Apr-2026 07:16:26 UTC] Email sent successfully to: rohan.14yahoo@gmail.com
+[10-Apr-2026 07:16:26 UTC] Cleanup: 0 expired tokens deleted
+[10-Apr-2026 07:16:41 UTC] === TOKEN VERIFICATION ===
+[10-Apr-2026 07:16:41 UTC] Token from URL (first 30 chars): ed1759192f04041fb4edb0be7a3b56
+[10-Apr-2026 07:16:41 UTC] Token length: 64
+[10-Apr-2026 07:16:41 UTC] Verifying token - hash (first 20 chars): 5ce2eaa30095537a6c18
+[10-Apr-2026 07:16:41 UTC] Token is VALID - user_id: 2
+[10-Apr-2026 07:16:41 UTC] Verification result - user_id: 2
+[10-Apr-2026 07:16:41 UTC] SUCCESS: Token verified for user 2
+[10-Apr-2026 07:16:41 UTC] Cleanup: 0 expired tokens deleted
+[10-Apr-2026 07:28:07 UTC] Email: AUTH failed: 530 5.7.0 specifications. 98e67ed59e1d1-35e41bba7bfsm800323a91.0 - gsmtp
+[10-Apr-2026 07:28:07 UTC] Email: SMTP failed, falling back to PHP mail()
+[10-Apr-2026 07:28:09 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 51
+[10-Apr-2026 07:29:58 UTC] Email: AUTH failed: 530 5.7.0 specifications. d2e1a72fcca58-82f0c4b2455sm1793474b3a.35 - gsmtp
+[10-Apr-2026 07:29:58 UTC] Email: SMTP failed, falling back to PHP mail()
+[10-Apr-2026 07:30:00 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 51
+[10-Apr-2026 07:30:04 UTC] Email: AUTH failed: 530 5.7.0 specifications. 41be03b00d2f7-c79216fd6edsm1805735a12.3 - gsmtp
+[10-Apr-2026 07:30:04 UTC] Email: SMTP failed, falling back to PHP mail()
+[10-Apr-2026 07:30:06 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 51
+[10-Apr-2026 07:32:29 UTC] Email: AUTH failed: 530 5.7.0 specifications. d9443c01a7336-2b2d4f0982fsm17810405ad.39 - gsmtp
+[10-Apr-2026 07:32:29 UTC] Email: SMTP failed, falling back to PHP mail()
+[10-Apr-2026 07:32:31 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 51
+[10-Apr-2026 07:49:52 UTC] Email: AUTH failed: 530 5.7.0 specifications. d2e1a72fcca58-82f0c30e7besm1791350b3a.5 - gsmtp
+[10-Apr-2026 07:49:52 UTC] Email: SMTP failed, falling back to PHP mail()
+[10-Apr-2026 07:49:54 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 51
+[10-Apr-2026 07:56:27 UTC] Email: Successfully sent to rohan.14yahoo@gmail.com
+[10-Apr-2026 07:56:55 UTC] Email: Successfully sent to rohan.14yahoo@gmail.com
+[10-Apr-2026 08:06:23 UTC] Email: AUTH failed: 530 5.7.0 specifications. 41be03b00d2f7-c79218fc8d9sm1666007a12.12 - gsmtp
+[10-Apr-2026 08:06:23 UTC] Email: SMTP failed, falling back to PHP mail()
+[10-Apr-2026 08:06:25 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 51
+[10-Apr-2026 08:07:32 UTC] Email: AUTH failed: 530 5.7.0 specifications. 98e67ed59e1d1-35e4131d3f2sm2318686a91.12 - gsmtp
+[10-Apr-2026 08:07:32 UTC] Email: SMTP failed, falling back to PHP mail()
+[10-Apr-2026 08:07:34 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 51
+[10-Apr-2026 08:07:39 UTC] Email: AUTH failed: 530 5.7.0 specifications. d2e1a72fcca58-82f0c4e1a2dsm1981260b3a.44 - gsmtp
+[10-Apr-2026 08:07:39 UTC] Email: SMTP failed, falling back to PHP mail()
+[10-Apr-2026 08:07:41 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 51
+[11-Apr-2026 03:51:21 UTC] Email: Successfully sent to paul@gmail.com
+[18-Apr-2026 10:15:10 UTC] Email: Postmark error (401): {"ErrorCode":10,"Message":"Request does not contain a valid Server token."}
+[18-Apr-2026 10:15:10 UTC] Email: Postmark failed, falling back to SMTP
+[18-Apr-2026 10:15:13 UTC] Email: Successfully sent to rohan.14yahoo@gmail.com via SMTP
+[18-Apr-2026 10:17:57 UTC] Cleanup: 1 expired tokens deleted
+[18-Apr-2026 10:18:01 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 10:18:01 UTC] POST data: {"step":"1","email":"paul@gmail.com"}
+[18-Apr-2026 10:18:01 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 10:18:01 UTC] Email: paul@gmail.com
+[18-Apr-2026 10:18:01 UTC] No user found for email: paul@gmail.com
+[18-Apr-2026 10:18:01 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:18:49 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:18:51 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 10:18:51 UTC] POST data: {"step":"1","email":"admin@librarysystem.com"}
+[18-Apr-2026 10:18:51 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 10:18:51 UTC] Email: admin@librarysystem.com
+[18-Apr-2026 10:18:51 UTC] User found: 1
+[18-Apr-2026 10:18:51 UTC] START: generatePasswordResetToken for user 1
+[18-Apr-2026 10:18:51 UTC] Token hash: 8989e611752bb6c97f1c...
+[18-Apr-2026 10:18:51 UTC] Expires at: 2026-04-18 11:18:51
+[18-Apr-2026 10:18:51 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 10:18:51 UTC] Prepare succeeded
+[18-Apr-2026 10:18:51 UTC] Bind succeeded
+[18-Apr-2026 10:18:51 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 10:18:51 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 10:18:51 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 10:18:51 UTC] Token generated successfully (first 30 chars): 288fc39c55a356f19bc159e6a868dd
+[18-Apr-2026 10:18:54 UTC] Email: Successfully sent to admin@librarysystem.com
+[18-Apr-2026 10:18:54 UTC] Email sent successfully to: admin@librarysystem.com
+[18-Apr-2026 10:18:54 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:18:54 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 10:18:54 UTC] POST data: {"step":"1","email":"admin@librarysystem.com"}
+[18-Apr-2026 10:18:54 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 10:18:54 UTC] Email: admin@librarysystem.com
+[18-Apr-2026 10:18:54 UTC] User found: 1
+[18-Apr-2026 10:18:54 UTC] START: generatePasswordResetToken for user 1
+[18-Apr-2026 10:18:54 UTC] Token hash: 6d15645ce8e7fd99358a...
+[18-Apr-2026 10:18:54 UTC] Expires at: 2026-04-18 11:18:54
+[18-Apr-2026 10:18:54 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 10:18:54 UTC] Prepare succeeded
+[18-Apr-2026 10:18:54 UTC] Bind succeeded
+[18-Apr-2026 10:18:54 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 10:18:54 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 10:18:54 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 10:18:54 UTC] Token generated successfully (first 30 chars): 03e8fca824af3d3e37075cff947572
+[18-Apr-2026 10:18:57 UTC] Email: DATA error: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing
+[18-Apr-2026 10:18:57 UTC] Email: SMTP failed, falling back to PHP mail()
+[18-Apr-2026 10:18:59 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 51
+[18-Apr-2026 10:18:59 UTC] WARNING: Email sending failed. Test mode enabled.
+[18-Apr-2026 10:18:59 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:18:59 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 10:18:59 UTC] POST data: {"step":"1","email":"admin@librarysystem.com"}
+[18-Apr-2026 10:18:59 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 10:18:59 UTC] Email: admin@librarysystem.com
+[18-Apr-2026 10:18:59 UTC] User found: 1
+[18-Apr-2026 10:18:59 UTC] START: generatePasswordResetToken for user 1
+[18-Apr-2026 10:18:59 UTC] Token hash: 9a8ffba0b5b6bae7f40d...
+[18-Apr-2026 10:18:59 UTC] Expires at: 2026-04-18 11:18:59
+[18-Apr-2026 10:18:59 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 10:18:59 UTC] Prepare succeeded
+[18-Apr-2026 10:18:59 UTC] Bind succeeded
+[18-Apr-2026 10:18:59 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 10:18:59 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 10:18:59 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 10:18:59 UTC] Token generated successfully (first 30 chars): 6d5e697e6221c5dcbf91ebec2575e9
+[18-Apr-2026 10:19:02 UTC] Email: DATA error: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing
+[18-Apr-2026 10:19:02 UTC] Email: SMTP failed, falling back to PHP mail()
+[18-Apr-2026 10:19:04 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 51
+[18-Apr-2026 10:19:04 UTC] WARNING: Email sending failed. Test mode enabled.
+[18-Apr-2026 10:19:04 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:19:04 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 10:19:04 UTC] POST data: {"step":"1","email":"admin@librarysystem.com"}
+[18-Apr-2026 10:19:04 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 10:19:04 UTC] Email: admin@librarysystem.com
+[18-Apr-2026 10:19:04 UTC] User found: 1
+[18-Apr-2026 10:19:04 UTC] START: generatePasswordResetToken for user 1
+[18-Apr-2026 10:19:04 UTC] Token hash: 1db555830979cfd0d5c0...
+[18-Apr-2026 10:19:04 UTC] Expires at: 2026-04-18 11:19:04
+[18-Apr-2026 10:19:04 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 10:19:04 UTC] Prepare succeeded
+[18-Apr-2026 10:19:04 UTC] Bind succeeded
+[18-Apr-2026 10:19:04 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 10:19:04 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 10:19:04 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 10:19:04 UTC] Token generated successfully (first 30 chars): c29960b239091ee6495bb0048eb59d
+[18-Apr-2026 10:19:07 UTC] Email: Successfully sent to admin@librarysystem.com
+[18-Apr-2026 10:19:07 UTC] Email sent successfully to: admin@librarysystem.com
+[18-Apr-2026 10:19:07 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:19:07 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 10:19:07 UTC] POST data: {"step":"1","email":"admin@librarysystem.com"}
+[18-Apr-2026 10:19:07 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 10:19:07 UTC] Email: admin@librarysystem.com
+[18-Apr-2026 10:19:07 UTC] User found: 1
+[18-Apr-2026 10:19:07 UTC] START: generatePasswordResetToken for user 1
+[18-Apr-2026 10:19:07 UTC] Token hash: 805d097ad545a9c6764d...
+[18-Apr-2026 10:19:07 UTC] Expires at: 2026-04-18 11:19:07
+[18-Apr-2026 10:19:07 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 10:19:07 UTC] Prepare succeeded
+[18-Apr-2026 10:19:07 UTC] Bind succeeded
+[18-Apr-2026 10:19:07 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 10:19:07 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 10:19:07 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 10:19:07 UTC] Token generated successfully (first 30 chars): a37d32405673d43d348bd5719853f1
+[18-Apr-2026 10:19:10 UTC] Email: DATA error: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing
+[18-Apr-2026 10:19:10 UTC] Email: SMTP failed, falling back to PHP mail()
+[18-Apr-2026 10:19:12 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 51
+[18-Apr-2026 10:19:12 UTC] WARNING: Email sending failed. Test mode enabled.
+[18-Apr-2026 10:19:12 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:19:12 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 10:19:12 UTC] POST data: {"step":"1","email":"admin@librarysystem.com"}
+[18-Apr-2026 10:19:12 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 10:19:12 UTC] Email: admin@librarysystem.com
+[18-Apr-2026 10:19:12 UTC] User found: 1
+[18-Apr-2026 10:19:12 UTC] START: generatePasswordResetToken for user 1
+[18-Apr-2026 10:19:12 UTC] Token hash: 6b59ead5e26cf20bf29d...
+[18-Apr-2026 10:19:12 UTC] Expires at: 2026-04-18 11:19:12
+[18-Apr-2026 10:19:12 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 10:19:12 UTC] Prepare succeeded
+[18-Apr-2026 10:19:12 UTC] Bind succeeded
+[18-Apr-2026 10:19:12 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 10:19:12 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 10:19:12 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 10:19:12 UTC] Token generated successfully (first 30 chars): 83d44703b8a1333b2a7a50ed7a27e2
+[18-Apr-2026 10:19:14 UTC] Email: DATA error: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing
+[18-Apr-2026 10:19:14 UTC] Email: SMTP failed, falling back to PHP mail()
+[18-Apr-2026 10:19:16 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 51
+[18-Apr-2026 10:19:16 UTC] WARNING: Email sending failed. Test mode enabled.
+[18-Apr-2026 10:19:16 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:19:16 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 10:19:16 UTC] POST data: {"step":"1","email":"admin@librarysystem.com"}
+[18-Apr-2026 10:19:16 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 10:19:16 UTC] Email: admin@librarysystem.com
+[18-Apr-2026 10:19:16 UTC] User found: 1
+[18-Apr-2026 10:19:16 UTC] START: generatePasswordResetToken for user 1
+[18-Apr-2026 10:19:16 UTC] Token hash: 9418be883159b556ba14...
+[18-Apr-2026 10:19:16 UTC] Expires at: 2026-04-18 11:19:16
+[18-Apr-2026 10:19:16 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 10:19:16 UTC] Prepare succeeded
+[18-Apr-2026 10:19:16 UTC] Bind succeeded
+[18-Apr-2026 10:19:16 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 10:19:16 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 10:19:16 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 10:19:16 UTC] Token generated successfully (first 30 chars): 0f1130794de50afbd2cfc0878f425e
+[18-Apr-2026 10:19:19 UTC] Email: Successfully sent to admin@librarysystem.com
+[18-Apr-2026 10:19:19 UTC] Email sent successfully to: admin@librarysystem.com
+[18-Apr-2026 10:19:19 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:19:19 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 10:19:19 UTC] POST data: {"step":"1","email":"admin@librarysystem.com"}
+[18-Apr-2026 10:19:19 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 10:19:19 UTC] Email: admin@librarysystem.com
+[18-Apr-2026 10:19:19 UTC] User found: 1
+[18-Apr-2026 10:19:19 UTC] START: generatePasswordResetToken for user 1
+[18-Apr-2026 10:19:19 UTC] Token hash: e43a0912d805dcefd572...
+[18-Apr-2026 10:19:19 UTC] Expires at: 2026-04-18 11:19:19
+[18-Apr-2026 10:19:19 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 10:19:19 UTC] Prepare succeeded
+[18-Apr-2026 10:19:19 UTC] Bind succeeded
+[18-Apr-2026 10:19:19 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 10:19:19 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 10:19:19 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 10:19:19 UTC] Token generated successfully (first 30 chars): 8b78bf6c02a5b25a58b347af1505c4
+[18-Apr-2026 10:19:22 UTC] Email: DATA error: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing
+[18-Apr-2026 10:19:22 UTC] Email: SMTP failed, falling back to PHP mail()
+[18-Apr-2026 10:19:24 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 51
+[18-Apr-2026 10:19:24 UTC] WARNING: Email sending failed. Test mode enabled.
+[18-Apr-2026 10:19:24 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:19:24 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:25:14 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\libsystem\debug-password-reset-routing.php on line 80
+[18-Apr-2026 10:26:00 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:26:11 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:26:19 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\libsystem\debug-password-reset-routing.php on line 80
+[18-Apr-2026 10:26:40 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 10:26:40 UTC] POST data: {"step":"1","email":"admin@librarysystem.com"}
+[18-Apr-2026 10:26:40 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 10:26:40 UTC] Email: admin@librarysystem.com
+[18-Apr-2026 10:26:40 UTC] User found: 1
+[18-Apr-2026 10:26:40 UTC] START: generatePasswordResetToken for user 1
+[18-Apr-2026 10:26:40 UTC] Token hash: 22f7033f3c2a23467555...
+[18-Apr-2026 10:26:40 UTC] Expires at: 2026-04-18 11:26:40
+[18-Apr-2026 10:26:40 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 10:26:40 UTC] Prepare succeeded
+[18-Apr-2026 10:26:40 UTC] Bind succeeded
+[18-Apr-2026 10:26:40 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 10:26:40 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 10:26:40 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 10:26:40 UTC] Token generated successfully (first 30 chars): ae543f4c40bdd66be1f49d48edef55
+[18-Apr-2026 10:26:40 UTC] === sendPasswordResetEmail CALLED ===
+[18-Apr-2026 10:26:40 UTC] Recipient Email Parameter: admin@librarysystem.com
+[18-Apr-2026 10:26:40 UTC] Token (first 30 chars): ae543f4c40bdd66be1f49d48edef55
+[18-Apr-2026 10:26:40 UTC] Password reset link will be sent to: admin@librarysystem.com
+[18-Apr-2026 10:26:40 UTC] === EmailService::send() CALLED ===
+[18-Apr-2026 10:26:40 UTC] To: admin@librarysystem.com
+[18-Apr-2026 10:26:40 UTC] Subject: Password Reset Request - Library Management System
+[18-Apr-2026 10:26:40 UTC] Attempting SMTP send...
+[18-Apr-2026 10:26:42 UTC] Email: Successfully sent to admin@librarysystem.com
+[18-Apr-2026 10:26:42 UTC] Email sent successfully to: admin@librarysystem.com
+[18-Apr-2026 10:26:42 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:26:50 UTC] === TOKEN VERIFICATION ===
+[18-Apr-2026 10:26:50 UTC] Token from URL (first 30 chars): ae543f4c40bdd66be1f49d48edef55
+[18-Apr-2026 10:26:50 UTC] Token length: 64
+[18-Apr-2026 10:26:50 UTC] Verifying token - hash (first 20 chars): 22f7033f3c2a23467555
+[18-Apr-2026 10:26:50 UTC] Token is VALID - user_id: 1
+[18-Apr-2026 10:26:50 UTC] Verification result - user_id: 1
+[18-Apr-2026 10:26:50 UTC] SUCCESS: Token verified for user 1
+[18-Apr-2026 10:26:50 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:26:56 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 10:26:56 UTC] POST data: {"step":"1","email":"admin@librarysystem.com"}
+[18-Apr-2026 10:26:56 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 10:26:56 UTC] Email: admin@librarysystem.com
+[18-Apr-2026 10:26:56 UTC] User found: 1
+[18-Apr-2026 10:26:56 UTC] START: generatePasswordResetToken for user 1
+[18-Apr-2026 10:26:56 UTC] Token hash: 27a3462a4db70646ced8...
+[18-Apr-2026 10:26:56 UTC] Expires at: 2026-04-18 11:26:56
+[18-Apr-2026 10:26:56 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 10:26:56 UTC] Prepare succeeded
+[18-Apr-2026 10:26:56 UTC] Bind succeeded
+[18-Apr-2026 10:26:56 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 10:26:56 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 10:26:56 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 10:26:56 UTC] Token generated successfully (first 30 chars): bfa46da932e6e52b32f196c289eec5
+[18-Apr-2026 10:26:56 UTC] === sendPasswordResetEmail CALLED ===
+[18-Apr-2026 10:26:56 UTC] Recipient Email Parameter: admin@librarysystem.com
+[18-Apr-2026 10:26:56 UTC] Token (first 30 chars): bfa46da932e6e52b32f196c289eec5
+[18-Apr-2026 10:26:56 UTC] Password reset link will be sent to: admin@librarysystem.com
+[18-Apr-2026 10:26:56 UTC] === EmailService::send() CALLED ===
+[18-Apr-2026 10:26:56 UTC] To: admin@librarysystem.com
+[18-Apr-2026 10:26:56 UTC] Subject: Password Reset Request - Library Management System
+[18-Apr-2026 10:26:56 UTC] Attempting SMTP send...
+[18-Apr-2026 10:26:59 UTC] Email: Successfully sent to admin@librarysystem.com
+[18-Apr-2026 10:26:59 UTC] Email sent successfully to: admin@librarysystem.com
+[18-Apr-2026 10:26:59 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:26:59 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:26:59 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 10:26:59 UTC] POST data: {"step":"1","email":"admin@librarysystem.com"}
+[18-Apr-2026 10:26:59 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 10:26:59 UTC] Email: admin@librarysystem.com
+[18-Apr-2026 10:26:59 UTC] User found: 1
+[18-Apr-2026 10:26:59 UTC] START: generatePasswordResetToken for user 1
+[18-Apr-2026 10:26:59 UTC] Token hash: 498660da01f6fbd720ed...
+[18-Apr-2026 10:26:59 UTC] Expires at: 2026-04-18 11:26:59
+[18-Apr-2026 10:26:59 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 10:26:59 UTC] Prepare succeeded
+[18-Apr-2026 10:26:59 UTC] Bind succeeded
+[18-Apr-2026 10:26:59 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 10:26:59 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 10:26:59 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 10:26:59 UTC] Token generated successfully (first 30 chars): f2a946f49091e2e21c9f73ccb9db4e
+[18-Apr-2026 10:26:59 UTC] === sendPasswordResetEmail CALLED ===
+[18-Apr-2026 10:26:59 UTC] Recipient Email Parameter: admin@librarysystem.com
+[18-Apr-2026 10:26:59 UTC] Token (first 30 chars): f2a946f49091e2e21c9f73ccb9db4e
+[18-Apr-2026 10:26:59 UTC] Password reset link will be sent to: admin@librarysystem.com
+[18-Apr-2026 10:26:59 UTC] === EmailService::send() CALLED ===
+[18-Apr-2026 10:26:59 UTC] To: admin@librarysystem.com
+[18-Apr-2026 10:26:59 UTC] Subject: Password Reset Request - Library Management System
+[18-Apr-2026 10:26:59 UTC] Attempting SMTP send...
+[18-Apr-2026 10:27:01 UTC] Email: DATA error: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing
+[18-Apr-2026 10:27:01 UTC] Email: SMTP failed, falling back to PHP mail()
+[18-Apr-2026 10:27:03 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\email.php on line 57
+[18-Apr-2026 10:27:03 UTC] WARNING: Email sending failed. Test mode enabled.
+[18-Apr-2026 10:27:03 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:27:03 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:27:03 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:27:03 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:27:06 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 10:27:06 UTC] POST data: {"step":"1","email":"paul@gmail.com"}
+[18-Apr-2026 10:27:06 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 10:27:06 UTC] Email: paul@gmail.com
+[18-Apr-2026 10:27:06 UTC] No user found for email: paul@gmail.com
+[18-Apr-2026 10:27:06 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:27:08 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:27:15 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 10:27:15 UTC] POST data: {"step":"1","email":"admin@librarysystem.com"}
+[18-Apr-2026 10:27:15 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 10:27:15 UTC] Email: admin@librarysystem.com
+[18-Apr-2026 10:27:15 UTC] User found: 1
+[18-Apr-2026 10:27:15 UTC] START: generatePasswordResetToken for user 1
+[18-Apr-2026 10:27:15 UTC] Token hash: 14a3fdd4fea628109114...
+[18-Apr-2026 10:27:15 UTC] Expires at: 2026-04-18 11:27:15
+[18-Apr-2026 10:27:15 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 10:27:15 UTC] Prepare succeeded
+[18-Apr-2026 10:27:15 UTC] Bind succeeded
+[18-Apr-2026 10:27:15 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 10:27:15 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 10:27:15 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 10:27:15 UTC] Token generated successfully (first 30 chars): 060e534152659804caea4b3b25bed4
+[18-Apr-2026 10:27:15 UTC] === sendPasswordResetEmail CALLED ===
+[18-Apr-2026 10:27:15 UTC] Recipient Email Parameter: admin@librarysystem.com
+[18-Apr-2026 10:27:15 UTC] Token (first 30 chars): 060e534152659804caea4b3b25bed4
+[18-Apr-2026 10:27:15 UTC] Password reset link will be sent to: admin@librarysystem.com
+[18-Apr-2026 10:27:15 UTC] === EmailService::send() CALLED ===
+[18-Apr-2026 10:27:15 UTC] To: admin@librarysystem.com
+[18-Apr-2026 10:27:15 UTC] Subject: Password Reset Request - Library Management System
+[18-Apr-2026 10:27:15 UTC] Attempting SMTP send...
+[18-Apr-2026 10:27:18 UTC] Email: Successfully sent to admin@librarysystem.com
+[18-Apr-2026 10:27:18 UTC] Email sent successfully to: admin@librarysystem.com
+[18-Apr-2026 10:27:18 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:35:00 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 10:39:25 UTC] START: generatePasswordResetToken for user 2
+[18-Apr-2026 10:39:25 UTC] Token hash: ef64902cfc3fcd1601c8...
+[18-Apr-2026 10:39:25 UTC] Expires at: 2026-04-18 11:39:25
+[18-Apr-2026 10:39:25 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 10:39:25 UTC] Prepare succeeded
+[18-Apr-2026 10:39:25 UTC] Bind succeeded
+[18-Apr-2026 10:39:25 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 10:39:25 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 10:39:25 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 10:39:25 UTC] === sendPasswordResetEmail CALLED ===
+[18-Apr-2026 10:39:25 UTC] Recipient Email Parameter: rohan.14yahoo@gmail.com
+[18-Apr-2026 10:39:25 UTC] Token (first 30 chars): e791bae136fe70039c136bef55a5c7
+[18-Apr-2026 10:39:25 UTC] Password reset link will be sent to: rohan.14yahoo@gmail.com
+[18-Apr-2026 10:39:25 UTC] === EmailService::send() CALLED ===
+[18-Apr-2026 10:39:25 UTC] To: rohan.14yahoo@gmail.com
+[18-Apr-2026 10:39:25 UTC] Subject: Password Reset Request - Library Management System
+[18-Apr-2026 10:39:25 UTC] Attempting SMTP send...
+[18-Apr-2026 10:39:28 UTC] Email: Successfully sent to rohan.14yahoo@gmail.com
+[18-Apr-2026 10:44:14 UTC] START: generatePasswordResetToken for user 2
+[18-Apr-2026 10:44:14 UTC] Token hash: 258c724876a21ba9e03f...
+[18-Apr-2026 10:44:14 UTC] Expires at: 2026-04-18 11:44:14
+[18-Apr-2026 10:44:14 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 10:44:14 UTC] Prepare succeeded
+[18-Apr-2026 10:44:14 UTC] Bind succeeded
+[18-Apr-2026 10:44:14 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 10:44:14 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 10:44:14 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 10:44:14 UTC] === sendPasswordResetEmail CALLED ===
+[18-Apr-2026 10:44:14 UTC] Recipient Email Parameter: rohan.14yahoo@gmail.com
+[18-Apr-2026 10:44:14 UTC] Token (first 30 chars): 7240b00aa719831fd3e2cc5ff0ed4f
+[18-Apr-2026 10:44:14 UTC] Password reset link will be sent to: rohan.14yahoo@gmail.com
+[18-Apr-2026 10:44:14 UTC] === EmailService::send() CALLED ===
+[18-Apr-2026 10:44:14 UTC] To: rohan.14yahoo@gmail.com
+[18-Apr-2026 10:44:14 UTC] Subject: Password Reset Request - Library Management System
+[18-Apr-2026 10:44:14 UTC] Attempting SMTP send...
+[18-Apr-2026 10:44:17 UTC] Email: Successfully sent to rohan.14yahoo@gmail.com
+[18-Apr-2026 11:03:55 UTC] START: generatePasswordResetToken for user 2
+[18-Apr-2026 11:03:55 UTC] Token hash: c1406266b82504e74567...
+[18-Apr-2026 11:03:55 UTC] Expires at: 2026-04-18 12:03:55
+[18-Apr-2026 11:03:55 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 11:03:55 UTC] Prepare succeeded
+[18-Apr-2026 11:03:55 UTC] Bind succeeded
+[18-Apr-2026 11:03:55 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 11:03:55 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 11:03:55 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 11:03:55 UTC] === sendPasswordResetEmail CALLED ===
+[18-Apr-2026 11:03:55 UTC] Recipient Email Parameter: rohan.14yahoo@gmail.com
+[18-Apr-2026 11:03:55 UTC] Token (first 30 chars): 9b7bf57c26d6cbb33c1757e8a1a624
+[18-Apr-2026 11:03:55 UTC] Password reset link will be sent to: rohan.14yahoo@gmail.com
+[18-Apr-2026 11:03:55 UTC] === Postmark Email Send ===
+[18-Apr-2026 11:03:55 UTC] To: rohan.14yahoo@gmail.com
+[18-Apr-2026 11:03:55 UTC] Subject: Password Reset Request - Library Management System
+[18-Apr-2026 11:03:55 UTC] Postmark HTTP Response Code: 422
+[18-Apr-2026 11:03:55 UTC] Postmark error (422): {"ErrorCode":412,"Message":"While your account is pending approval, all recipient addresses must share the same domain as the 'From' address. The domain of the 'From' address is 'librarysystem.com', but you are attempting to send email to the following domain(s): 'gmail.com'."}
+[18-Apr-2026 11:03:55 UTC] ERROR: Invalid email address or Postmark config
+[18-Apr-2026 11:03:55 UTC] ERROR: Postmark API failed, attempting fallback
+[18-Apr-2026 11:03:55 UTC] Falling back to PHP mail()
+[18-Apr-2026 11:03:57 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\libsystem\includes\postmark-email.php on line 124
+[18-Apr-2026 11:03:57 UTC] PHP mail() failed for rohan.14yahoo@gmail.com
+[18-Apr-2026 11:55:23 UTC] Email service: Brevo
+[18-Apr-2026 11:55:23 UTC] START: generatePasswordResetToken for user 2
+[18-Apr-2026 11:55:23 UTC] Token hash: 4d7a6e54dafea2b1ff8d...
+[18-Apr-2026 11:55:23 UTC] Expires at: 2026-04-18 12:55:23
+[18-Apr-2026 11:55:23 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 11:55:23 UTC] Prepare succeeded
+[18-Apr-2026 11:55:23 UTC] Bind succeeded
+[18-Apr-2026 11:55:23 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 11:55:23 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 11:55:23 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 11:55:23 UTC] === sendPasswordResetEmail CALLED ===
+[18-Apr-2026 11:55:23 UTC] Recipient Email Parameter: rohan.14yahoo@gmail.com
+[18-Apr-2026 11:55:23 UTC] Token (first 30 chars): 6c35a4959699d1608e50b344704f1f
+[18-Apr-2026 11:55:23 UTC] Password reset link will be sent to: rohan.14yahoo@gmail.com
+[18-Apr-2026 11:55:23 UTC] === Brevo Email Send ===
+[18-Apr-2026 11:55:23 UTC] To: rohan.14yahoo@gmail.com
+[18-Apr-2026 11:55:23 UTC] Subject: Password Reset Request - Library Management System
+[18-Apr-2026 11:55:24 UTC] Brevo HTTP Response Code: 201
+[18-Apr-2026 11:55:24 UTC] SUCCESS: Email sent via Brevo
+[18-Apr-2026 11:55:24 UTC] Message ID: <202604181155.72883838644@smtp-relay.mailin.fr>
+[18-Apr-2026 11:55:24 UTC] Successfully sent to rohan.14yahoo@gmail.com
+[18-Apr-2026 12:09:07 UTC] Email service: Brevo
+[18-Apr-2026 12:09:09 UTC] Email service: Brevo
+[18-Apr-2026 12:09:09 UTC] Cleanup: 15 expired tokens deleted
+[18-Apr-2026 12:09:11 UTC] Email service: Brevo
+[18-Apr-2026 12:09:11 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 12:09:11 UTC] POST data: {"step":"1","email":"rohan.14yahoo@gmail.com"}
+[18-Apr-2026 12:09:11 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 12:09:11 UTC] Email: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:09:11 UTC] User found: 2
+[18-Apr-2026 12:09:11 UTC] START: generatePasswordResetToken for user 2
+[18-Apr-2026 12:09:11 UTC] Token hash: 5be1c5e602241aba8a2b...
+[18-Apr-2026 12:09:11 UTC] Expires at: 2026-04-18 13:09:11
+[18-Apr-2026 12:09:11 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 12:09:11 UTC] Prepare succeeded
+[18-Apr-2026 12:09:11 UTC] Bind succeeded
+[18-Apr-2026 12:09:11 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 12:09:11 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 12:09:11 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 12:09:11 UTC] Token generated successfully (first 30 chars): 97bd78131872f80b212666dc178fce
+[18-Apr-2026 12:09:11 UTC] === sendPasswordResetEmail CALLED ===
+[18-Apr-2026 12:09:11 UTC] Recipient Email Parameter: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:09:11 UTC] Token (first 30 chars): 97bd78131872f80b212666dc178fce
+[18-Apr-2026 12:09:11 UTC] Password reset link will be sent to: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:09:11 UTC] === Brevo Email Send ===
+[18-Apr-2026 12:09:11 UTC] To: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:09:11 UTC] Subject: Password Reset Request - Library Management System
+[18-Apr-2026 12:09:11 UTC] Brevo HTTP Response Code: 201
+[18-Apr-2026 12:09:11 UTC] SUCCESS: Email sent via Brevo
+[18-Apr-2026 12:09:11 UTC] Message ID: <202604181209.90757060863@smtp-relay.mailin.fr>
+[18-Apr-2026 12:09:11 UTC] Successfully sent to rohan.14yahoo@gmail.com
+[18-Apr-2026 12:09:11 UTC] Email sent successfully to: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:09:11 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 12:10:23 UTC] Email service: Brevo
+[18-Apr-2026 12:10:23 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 12:10:24 UTC] Email service: Brevo
+[18-Apr-2026 12:10:24 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 12:10:24 UTC] POST data: {"step":"1","email":"rohan.14yahoo@gmail.com"}
+[18-Apr-2026 12:10:24 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 12:10:24 UTC] Email: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:10:24 UTC] User found: 2
+[18-Apr-2026 12:10:24 UTC] START: generatePasswordResetToken for user 2
+[18-Apr-2026 12:10:24 UTC] Token hash: 51aad10e29627e631dac...
+[18-Apr-2026 12:10:24 UTC] Expires at: 2026-04-18 13:10:24
+[18-Apr-2026 12:10:24 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 12:10:24 UTC] Prepare succeeded
+[18-Apr-2026 12:10:24 UTC] Bind succeeded
+[18-Apr-2026 12:10:24 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 12:10:24 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 12:10:24 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 12:10:24 UTC] Token generated successfully (first 30 chars): 4e08988b0db232478cf6537ec61e2f
+[18-Apr-2026 12:10:24 UTC] === sendPasswordResetEmail CALLED ===
+[18-Apr-2026 12:10:24 UTC] Recipient Email Parameter: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:10:24 UTC] Token (first 30 chars): 4e08988b0db232478cf6537ec61e2f
+[18-Apr-2026 12:10:24 UTC] Password reset link will be sent to: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:10:24 UTC] === Brevo Email Send ===
+[18-Apr-2026 12:10:24 UTC] To: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:10:24 UTC] Subject: Password Reset Request - Library Management System
+[18-Apr-2026 12:10:25 UTC] Brevo HTTP Response Code: 201
+[18-Apr-2026 12:10:25 UTC] SUCCESS: Email sent via Brevo
+[18-Apr-2026 12:10:25 UTC] Message ID: <202604181210.31060833081@smtp-relay.mailin.fr>
+[18-Apr-2026 12:10:25 UTC] Successfully sent to rohan.14yahoo@gmail.com
+[18-Apr-2026 12:10:25 UTC] Email sent successfully to: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:10:25 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 12:10:34 UTC] Email service: Brevo
+[18-Apr-2026 12:10:34 UTC] === TOKEN VERIFICATION ===
+[18-Apr-2026 12:10:34 UTC] Token from URL (first 30 chars): 4e08988b0db232478cf6537ec61e2f
+[18-Apr-2026 12:10:34 UTC] Token length: 64
+[18-Apr-2026 12:10:34 UTC] Verifying token - hash (first 20 chars): 51aad10e29627e631dac
+[18-Apr-2026 12:10:34 UTC] Token is VALID - user_id: 2
+[18-Apr-2026 12:10:34 UTC] Verification result - user_id: 2
+[18-Apr-2026 12:10:34 UTC] SUCCESS: Token verified for user 2
+[18-Apr-2026 12:10:34 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 12:10:48 UTC] Email service: Brevo
+[18-Apr-2026 12:10:53 UTC] Email service: Brevo
+[18-Apr-2026 12:10:53 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 12:10:57 UTC] Email service: Brevo
+[18-Apr-2026 12:10:57 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 12:10:57 UTC] POST data: {"step":"1","email":"admin@librarysystem.com"}
+[18-Apr-2026 12:10:57 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 12:10:57 UTC] Email: admin@librarysystem.com
+[18-Apr-2026 12:10:57 UTC] User found: 1
+[18-Apr-2026 12:10:57 UTC] START: generatePasswordResetToken for user 1
+[18-Apr-2026 12:10:57 UTC] Token hash: d0fcaf032650a04f6d5f...
+[18-Apr-2026 12:10:57 UTC] Expires at: 2026-04-18 13:10:57
+[18-Apr-2026 12:10:57 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 12:10:57 UTC] Prepare succeeded
+[18-Apr-2026 12:10:57 UTC] Bind succeeded
+[18-Apr-2026 12:10:57 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 12:10:57 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 12:10:57 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 12:10:57 UTC] Token generated successfully (first 30 chars): 32571fbebb2b09b32fe1a1ea11a0a2
+[18-Apr-2026 12:10:57 UTC] === sendPasswordResetEmail CALLED ===
+[18-Apr-2026 12:10:57 UTC] Recipient Email Parameter: admin@librarysystem.com
+[18-Apr-2026 12:10:57 UTC] Token (first 30 chars): 32571fbebb2b09b32fe1a1ea11a0a2
+[18-Apr-2026 12:10:57 UTC] Password reset link will be sent to: admin@librarysystem.com
+[18-Apr-2026 12:10:57 UTC] === Brevo Email Send ===
+[18-Apr-2026 12:10:57 UTC] To: admin@librarysystem.com
+[18-Apr-2026 12:10:57 UTC] Subject: Password Reset Request - Library Management System
+[18-Apr-2026 12:10:58 UTC] Brevo HTTP Response Code: 201
+[18-Apr-2026 12:10:58 UTC] SUCCESS: Email sent via Brevo
+[18-Apr-2026 12:10:58 UTC] Message ID: <202604181210.33354213654@smtp-relay.mailin.fr>
+[18-Apr-2026 12:10:58 UTC] Successfully sent to admin@librarysystem.com
+[18-Apr-2026 12:10:58 UTC] Email sent successfully to: admin@librarysystem.com
+[18-Apr-2026 12:10:58 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 12:11:11 UTC] Email service: Brevo
+[18-Apr-2026 12:11:13 UTC] Email service: Brevo
+[18-Apr-2026 12:11:13 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 12:11:15 UTC] Email service: Brevo
+[18-Apr-2026 12:11:15 UTC] === FORM SUBMITTED ===
+[18-Apr-2026 12:11:15 UTC] POST data: {"step":"1","email":"rohan.14yahoo@gmail.com"}
+[18-Apr-2026 12:11:15 UTC] === PASSWORD RESET REQUEST ===
+[18-Apr-2026 12:11:15 UTC] Email: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:11:15 UTC] User found: 2
+[18-Apr-2026 12:11:15 UTC] START: generatePasswordResetToken for user 2
+[18-Apr-2026 12:11:15 UTC] Token hash: aa0fd5cfffa381eea841...
+[18-Apr-2026 12:11:15 UTC] Expires at: 2026-04-18 13:11:15
+[18-Apr-2026 12:11:15 UTC] Executing: INSERT INTO password_reset_tokens (user_id, token, expires_at) 
+                VALUES (?, ?, ?)
+[18-Apr-2026 12:11:15 UTC] Prepare succeeded
+[18-Apr-2026 12:11:15 UTC] Bind succeeded
+[18-Apr-2026 12:11:15 UTC] INSERT succeeded - affected rows: 1
+[18-Apr-2026 12:11:15 UTC] Verify: Token found in DB = YES
+[18-Apr-2026 12:11:15 UTC] Returning unhashed token for email transmission
+[18-Apr-2026 12:11:15 UTC] Token generated successfully (first 30 chars): bb0aa06d70312f50323919bf4e8d97
+[18-Apr-2026 12:11:15 UTC] === sendPasswordResetEmail CALLED ===
+[18-Apr-2026 12:11:15 UTC] Recipient Email Parameter: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:11:15 UTC] Token (first 30 chars): bb0aa06d70312f50323919bf4e8d97
+[18-Apr-2026 12:11:15 UTC] Password reset link will be sent to: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:11:15 UTC] === Brevo Email Send ===
+[18-Apr-2026 12:11:15 UTC] To: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:11:15 UTC] Subject: Password Reset Request - Library Management System
+[18-Apr-2026 12:11:16 UTC] Brevo HTTP Response Code: 201
+[18-Apr-2026 12:11:16 UTC] SUCCESS: Email sent via Brevo
+[18-Apr-2026 12:11:16 UTC] Message ID: <202604181211.45604695932@smtp-relay.mailin.fr>
+[18-Apr-2026 12:11:16 UTC] Successfully sent to rohan.14yahoo@gmail.com
+[18-Apr-2026 12:11:16 UTC] Email sent successfully to: rohan.14yahoo@gmail.com
+[18-Apr-2026 12:11:16 UTC] Cleanup: 0 expired tokens deleted
+[18-Apr-2026 12:13:35 UTC] Email service: Brevo
+[18-Apr-2026 12:14:50 UTC] Email service: Brevo
+[18-Apr-2026 12:15:14 UTC] Email service: Brevo
+[18-Apr-2026 12:15:25 UTC] Email service: Brevo
+[18-Apr-2026 12:15:25 UTC] === Brevo Email Send ===
+[18-Apr-2026 12:15:25 UTC] To: hentailover1959@gmail.com
+[18-Apr-2026 12:15:25 UTC] Subject: Email Verification - Library Management System
+[18-Apr-2026 12:15:26 UTC] Brevo HTTP Response Code: 201
+[18-Apr-2026 12:15:26 UTC] SUCCESS: Email sent via Brevo
+[18-Apr-2026 12:15:26 UTC] Message ID: <202604181215.95491895370@smtp-relay.mailin.fr>
+[18-Apr-2026 12:15:26 UTC] Successfully sent to hentailover1959@gmail.com
+[18-Apr-2026 12:16:18 UTC] Email service: Brevo
+[18-Apr-2026 12:16:19 UTC] Email service: Brevo
+[18-Apr-2026 12:16:27 UTC] Email service: Brevo
+[18-Apr-2026 12:16:33 UTC] Email service: Brevo
+[18-Apr-2026 12:17:20 UTC] Email service: Brevo
+[18-Apr-2026 12:21:13 UTC] Email service: Brevo
+[18-Apr-2026 12:21:17 UTC] Email service: Brevo
+[18-Apr-2026 12:21:21 UTC] Email service: Brevo
+[18-Apr-2026 12:21:28 UTC] Email service: Brevo
+[18-Apr-2026 12:21:43 UTC] Email service: Brevo
+[18-Apr-2026 12:22:59 UTC] Email service: Brevo
+[18-Apr-2026 12:23:27 UTC] Email service: Brevo
+[18-Apr-2026 12:34:59 UTC] Email service: Brevo
+[18-Apr-2026 12:35:11 UTC] Email service: Brevo
+[18-Apr-2026 12:35:47 UTC] Email service: Brevo
+[18-Apr-2026 13:20:17 UTC] Email service: Brevo
+[18-Apr-2026 13:20:22 UTC] Email service: Brevo
+[18-Apr-2026 14:01:24 UTC] Email service: Brevo
+[18-Apr-2026 14:10:52 UTC] Email service: Brevo
+[18-Apr-2026 14:10:58 UTC] Email service: Brevo
+[18-Apr-2026 14:11:08 UTC] Email service: Brevo
+[18-Apr-2026 14:11:21 UTC] Email service: Brevo
+[18-Apr-2026 14:11:32 UTC] Email service: Brevo
+[18-Apr-2026 14:11:46 UTC] Email service: Brevo
+[18-Apr-2026 14:18:09 UTC] Email service: Brevo
+[18-Apr-2026 15:09:42 UTC] Email service: Brevo
+[18-Apr-2026 15:10:40 UTC] Email service: Brevo
+[18-Apr-2026 15:10:57 UTC] Email service: Brevo
+[18-Apr-2026 15:11:09 UTC] Email service: Brevo
+[18-Apr-2026 15:11:09 UTC] === Brevo Email Send ===
+[18-Apr-2026 15:11:09 UTC] To: hentailover2x2004@gmail.com
+[18-Apr-2026 15:11:09 UTC] Subject: Email Verification - Library Management System
+[18-Apr-2026 15:11:09 UTC] Brevo HTTP Response Code: 201
+[18-Apr-2026 15:11:09 UTC] SUCCESS: Email sent via Brevo
+[18-Apr-2026 15:11:09 UTC] Message ID: <202604181511.67457480517@smtp-relay.mailin.fr>
+[18-Apr-2026 15:11:09 UTC] Successfully sent to hentailover2x2004@gmail.com
+[18-Apr-2026 15:11:17 UTC] Email service: Brevo
+[18-Apr-2026 15:11:21 UTC] Email service: Brevo
+[18-Apr-2026 15:11:29 UTC] Email service: Brevo
+[18-Apr-2026 15:11:45 UTC] Email service: Brevo
+[18-Apr-2026 15:13:57 UTC] Email service: Brevo
+[18-Apr-2026 15:14:33 UTC] Email service: Brevo
+[18-Apr-2026 15:14:46 UTC] Email service: Brevo
+[18-Apr-2026 15:14:46 UTC] === Brevo Email Send ===
+[18-Apr-2026 15:14:46 UTC] To: hentailover1959@gmail.com
+[18-Apr-2026 15:14:46 UTC] Subject: Email Verification - Library Management System
+[18-Apr-2026 15:14:47 UTC] Brevo HTTP Response Code: 201
+[18-Apr-2026 15:14:47 UTC] SUCCESS: Email sent via Brevo
+[18-Apr-2026 15:14:47 UTC] Message ID: <202604181514.60260528140@smtp-relay.mailin.fr>
+[18-Apr-2026 15:14:47 UTC] Successfully sent to hentailover1959@gmail.com
+[18-Apr-2026 15:14:56 UTC] Email service: Brevo
+[18-Apr-2026 15:15:01 UTC] Email service: Brevo
+[18-Apr-2026 15:15:06 UTC] Email service: Brevo
